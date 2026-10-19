@@ -1,13 +1,3 @@
-//Github (15%) si
-//Array, al menos 5 elementos 15%
-//Al menos 2 (push, unshift, pop, shift) elemento se muestra en mensaje 20% si
-//Valor de buqueda validados con includes y su posicion con indexOf 15%
-//Un splice que remplace el elemento de un indice concreto 20%
-//funcion con for of que liste los elementos 15% si
-
-
-
-
 function menu(productos){
 
     let elegir
